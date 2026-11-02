@@ -5,7 +5,6 @@
   Connect is one panel cut into five images (header strip + four 25% card slots) so each
   card can be its own link. Keep the whole <p> on ONE line with no spaces between tags, and
   keep align="top" on every image: it removes the inline gap so the slices meet seamlessly.
-  The Website card is intentionally not a link until the site exists.
 -->
 
 <div align="center">
@@ -20,4 +19,4 @@
 
 <br />
 
-<p align="center"><img src="./assets/connect.svg" width="100%" align="top" alt="Connect: LinkedIn, Instagram, Email, and Website (coming soon)" /><br /><a href="https://www.linkedin.com/in/andravall"><img src="./assets/link-linkedin.svg" width="25%" align="top" alt="LinkedIn: /in/andravall" /></a><a href="https://www.instagram.com/andravall"><img src="./assets/link-instagram.svg" width="25%" align="top" alt="Instagram: @andravall" /></a><a href="mailto:andravall@duck.com"><img src="./assets/link-email.svg" width="25%" align="top" alt="Email: andravall@duck.com" /></a><a name="website-coming-soon"><img src="./assets/link-website.svg" width="25%" align="top" alt="Website: coming soon" /></a></p>
+<p align="center"><img src="./assets/connect.svg" width="100%" align="top" alt="Connect: LinkedIn, Instagram, Email, and Website" /><br /><a href="https://www.linkedin.com/in/andravall"><img src="./assets/link-linkedin.svg" width="25%" align="top" alt="LinkedIn: /in/andravall" /></a><a href="https://www.instagram.com/andravall"><img src="./assets/link-instagram.svg" width="25%" align="top" alt="Instagram: @andravall" /></a><a href="mailto:andravall@duck.com"><img src="./assets/link-email.svg" width="25%" align="top" alt="Email: andravall@duck.com" /></a><a href="https://www.andravall.my.id"><img src="./assets/link-website.svg" width="25%" align="top" alt="Website: andravall.my.id" /></a></p>
