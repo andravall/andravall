@@ -8,15 +8,15 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mohammad Ferdinand Valliandra, a.k.a. Andra. Software Engineer and Data Analyst." />
+  <img src="./assets/hero-e094a09.svg" width="100%" alt="Mohammad Ferdinand Valliandra, a.k.a. Andra. Software Engineer and Data Analyst." />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack, 55 technologies. Languages: Python, TypeScript, JavaScript, SQL, PHP, Java, Dart, HTML5, CSS, Bash. Data: PostgreSQL, Supabase, SQLite, SQLAlchemy, Alembic, Prisma. Backend: FastAPI, Pydantic, Flask, Laravel, Laravel Sanctum, Node.js, Express, discord.js. Frontend and Apps: Next.js, React, Vite, Tailwind CSS, TanStack Query, Zod, React Flow, Radix UI, Flutter, Chrome Extensions. AI and Vision: PyTorch, OpenCV, FaceNet, MTCNN. Cloud and DevOps: Microsoft Azure, Google Cloud Run, Render, Docker, GitHub Actions, PM2, Linux, SSH. Quality and Tools: Git, pytest, Vitest, PHPUnit, Playwright, Ruff, ESLint, Prettier, uv." />
+  <img src="./assets/tech-stack-b7bdc10.svg" width="100%" alt="Tech Stack, 55 technologies. Languages: Python, TypeScript, JavaScript, SQL, PHP, Java, Dart, HTML5, CSS, Bash. Data: PostgreSQL, Supabase, SQLite, SQLAlchemy, Alembic, Prisma. Backend: FastAPI, Pydantic, Flask, Laravel, Laravel Sanctum, Node.js, Express, discord.js. Frontend and Apps: Next.js, React, Vite, Tailwind CSS, TanStack Query, Zod, React Flow, Radix UI, Flutter, Chrome Extensions. AI and Vision: PyTorch, OpenCV, FaceNet, MTCNN. Cloud and DevOps: Microsoft Azure, Google Cloud Run, Render, Docker, GitHub Actions, PM2, Linux, SSH. Quality and Tools: Git, pytest, Vitest, PHPUnit, Playwright, Ruff, ESLint, Prettier, uv." />
 </div>
 
 <br />
 
-<p align="center"><img src="./assets/connect.svg" width="100%" align="top" alt="Connect: LinkedIn, Instagram, Email, and Website" /><br /><a href="https://www.linkedin.com/in/andravall"><img src="./assets/link-linkedin.svg" width="25%" align="top" alt="LinkedIn: /in/andravall" /></a><a href="https://www.instagram.com/andravall"><img src="./assets/link-instagram.svg" width="25%" align="top" alt="Instagram: @andravall" /></a><a href="mailto:andravall@duck.com"><img src="./assets/link-email.svg" width="25%" align="top" alt="Email: andravall@duck.com" /></a><a href="https://personal-website-sable-theta-54.vercel.app/"><img src="./assets/link-website.svg" width="25%" align="top" alt="Website: personal-website-sable-theta-54.vercel.app" /></a></p>
+<p align="center"><img src="./assets/connect-5573040.svg" width="100%" align="top" alt="Connect: LinkedIn, Instagram, Email, and Website" /><br /><a href="https://www.linkedin.com/in/andravall"><img src="./assets/link-linkedin-b2a7bcd.svg" width="25%" align="top" alt="LinkedIn: /in/andravall" /></a><a href="https://www.instagram.com/andravall"><img src="./assets/link-instagram-983c798.svg" width="25%" align="top" alt="Instagram: @andravall" /></a><a href="mailto:andravall@duck.com"><img src="./assets/link-email-0eead40.svg" width="25%" align="top" alt="Email: andravall@duck.com" /></a><a href="https://personal-website-sable-theta-54.vercel.app/"><img src="./assets/link-website-767fd5b.svg" width="25%" align="top" alt="Website: personal-website-sable-theta-54.vercel.app" /></a></p>
