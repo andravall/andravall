@@ -1,20 +1,20 @@
 <!--
   Profile README for github.com/andravall
   All visuals are hand-built SVGs in ./assets (no external requests, no scripts).
-  Technology logos: Simple Icons (CC0); each mark is a trademark of its owner.
+  Technology logos: Simple Icons (CC0) and Devicon (MIT); each mark is a trademark of its owner.
   The four Connect cards must stay on ONE line with no spaces between the tags:
   each image is exactly 25% wide and carries its own gap, so any whitespace would wrap the row.
   The Website card is intentionally not a link until the site exists.
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mohammad Ferdinand Valliandra, a.k.a. Andra. Focus: Software Development and Data Analyst." />
+  <img src="./assets/hero.svg" width="100%" alt="Mohammad Ferdinand Valliandra, a.k.a. Andra. Focus: Software Development and Data Engineering." />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack. Languages: Python, TypeScript, SQL, JavaScript, PHP, Dart. Data: PostgreSQL, Supabase, SQLAlchemy, Alembic, Prisma. Backend: FastAPI, Laravel, Node.js, Flask, Pydantic. Frontend: Next.js, React, Tailwind CSS, TanStack Query, Zod. Beyond web: Flutter, Chrome Extensions, PyTorch, OpenCV. Quality and shipping: Git, GitHub Actions, Docker, pytest, Vitest." />
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack, 55 technologies. Languages: Python, TypeScript, JavaScript, SQL, PHP, Java, Dart, HTML5, CSS, Bash. Data: PostgreSQL, Supabase, SQLite, SQLAlchemy, Alembic, Prisma. Backend: FastAPI, Pydantic, Flask, Laravel, Laravel Sanctum, Node.js, Express, discord.js. Frontend and Apps: Next.js, React, Vite, Tailwind CSS, TanStack Query, Zod, React Flow, Radix UI, Flutter, Chrome Extensions. AI and Vision: PyTorch, OpenCV, FaceNet, MTCNN. Cloud and DevOps: Microsoft Azure, Google Cloud Run, Render, Docker, GitHub Actions, PM2, Linux, SSH. Quality and Tools: Git, pytest, Vitest, PHPUnit, Playwright, Ruff, ESLint, Prettier, uv." />
 </div>
 
 <br />
