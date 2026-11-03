@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/tech-stack-9b7c1c1.svg" width="100%" alt="Tech Stack, 55 technologies. Languages: Python, TypeScript, JavaScript, SQL, PHP, Java, Dart, HTML5, CSS, Bash. Data: PostgreSQL, Supabase, SQLite, SQLAlchemy, Alembic, Prisma. Backend: FastAPI, Pydantic, Flask, Laravel, Laravel Sanctum, Node.js, Express, discord.js. Frontend and Apps: Next.js, React, Vite, Tailwind CSS, TanStack Query, Zod, React Flow, Radix UI, Flutter, Chrome Extensions. AI and Vision: PyTorch, OpenCV, FaceNet, MTCNN. Cloud and DevOps: Microsoft Azure, Google Cloud Run, Render, Docker, GitHub Actions, PM2, Linux, SSH. Quality and Tools: Git, pytest, Vitest, PHPUnit, Playwright, Ruff, ESLint, Prettier, uv." />
+  <img src="./assets/tech-stack-a72c159.svg" width="100%" alt="Tech Stack, 61 technologies. Languages: Python, TypeScript, JavaScript, SQL, PHP, Java, Dart, HTML5, CSS, Bash. Data: PostgreSQL, Supabase, SQLite, SQLAlchemy, Alembic, Prisma. Analytics and Forecasting: R, Power BI, Google Colab, SmartPLS, PatchTST, iTransformer. Backend: FastAPI, Pydantic, Flask, Laravel, Laravel Sanctum, Node.js, Express, discord.js. Frontend and Apps: Next.js, React, Vite, Tailwind CSS, TanStack Query, Zod, React Flow, Radix UI, Flutter, Chrome Extensions. AI and Vision: PyTorch, OpenCV, FaceNet, MTCNN. Cloud and DevOps: Microsoft Azure, Google Cloud Run, Render, Docker, GitHub Actions, PM2, Linux, SSH. Quality and Tools: Git, pytest, Vitest, PHPUnit, Playwright, Ruff, ESLint, Prettier, uv." />
 </div>
 
 <br />
