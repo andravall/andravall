@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero-ad93ce3.svg" width="100%" alt="Mohammad Ferdinand Valliandra, a.k.a. Andra. Software Engineer and Data Analyst." />
+  <img src="./assets/hero-d8de158.svg" width="100%" alt="Mohammad Ferdinand Valliandra, a.k.a. Andra. Software Engineer and Data Analyst." />
 </div>
 
 <br />
